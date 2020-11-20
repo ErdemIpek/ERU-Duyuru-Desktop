@@ -12,13 +12,20 @@ A desktop app written to avoid missing announcements
 <br>
 
 Firstly script finds which html tags include texts we need from three given sites. Then [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) fetches texts between tags and saves it in a list element.Then i used [Tkinter](https://docs.python.org/3/library/tkinter.html) to make a GUI. Its that simple!
-
+ 
 
 <br>
-
+<h2>
+  How to run?
+</h2>
+ <br>
+ <p>
+  Both source code and exe files are available in this repo. You can either just use the .exe file to directly use or you can either modify the source code to make it look better!
+  </p>
+<br>
 
  <h1 align="center">
     How does it look?
   <br>
-    <img src="https://i.gyazo.com/71a59e4c5c5d1ab11541722114513626.png"/>
+    <img src="https://i.gyazo.com/ea288452d7a2701ad5c05eb412c9b8fe.png"/>
   </h1>
