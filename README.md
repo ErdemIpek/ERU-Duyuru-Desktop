@@ -19,5 +19,6 @@ Firstly script finds which html tags include texts we need from three given site
 
  <h1 align="center">
     How does it look?
+  <br>
     <img src="https://i.gyazo.com/71a59e4c5c5d1ab11541722114513626.png"/>
   </h1>
